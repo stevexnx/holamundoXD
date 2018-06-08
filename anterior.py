@@ -1,0 +1,2 @@
+pulgada = input()
+masVal
