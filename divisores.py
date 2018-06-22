@@ -1,4 +1,3 @@
-
 numero = int(input("numero: "))
 for i in range(1,numero):
      if numero % i == 0:

@@ -1,2 +1,0 @@
-pulgada = input()
-masVal
